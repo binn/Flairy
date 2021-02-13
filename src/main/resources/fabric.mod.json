@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "flairy",
+  "version": "${version}",
+  "name": "Flairy",
+  "description": "Illegal modifications for Hypixel Skyblock",
+  "authors": [
+    "puff"
+  ],
+  "contributors": [],
+  "contact": {
+    "sources": "https://github.com/puff/Flairy"
+  },
+  "license": "AGPL-3.0",
+  "icon": "assets/flairy/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.puff.flairy.Flairy"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "flairy.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.1",
+    "fabric": "*"
+  }
+}
