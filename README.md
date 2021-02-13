@@ -3,11 +3,12 @@ Illegal modifications for Hypixel Skyblock
 
 ## Features
 **Implemented:**\
-None
+Fairy Soul ESP
 
 **TODO:**\
-Fairy Soul ESP\
+Improve Renderer\
+Add tracers to Fairy Soul ESP\
 Harp Bot
 
 ## Resources
-CommandManager, Command, CmdToggle, FlairyLogger, MixinClientConnection - [BleachHack](https://github.com/BleachDrinker420/bleachhack-1.14)
+Command, Module and Renderer systems - [BleachHack](https://github.com/BleachDrinker420/bleachhack-1.14)

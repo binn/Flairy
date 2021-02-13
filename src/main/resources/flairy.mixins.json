@@ -3,7 +3,11 @@
   "package": "me.puff.flairy.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [],
-  "client": [],
+  "client": [
+    "MixinClientConnection",
+    "MixinClientPlayerEntity",
+    "MixinWorldRenderer"
+  ],
   "server": [],
   "injectors": {
     "defaultRequire": 1
