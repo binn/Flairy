@@ -8,6 +8,7 @@ Fairy Soul ESP
 
 **TODO:**\
 Improve / Rewrite Renderer\
+Add settings system for modules\
 Add Canvas compatibility\
 Add tracers to Fairy Soul ESP\
 Make Fairy Soul ESP not so damn ugly\
