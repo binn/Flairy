@@ -1,5 +1,6 @@
 # Flairy
-Illegal modifications for Hypixel Skyblock
+Illegal modifications for Hypixel Skyblock\
+Fabric 1.16.5
 
 ## Features
 **Implemented:**\
