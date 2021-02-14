@@ -11,6 +11,7 @@ Improve / Rewrite Renderer\
 Add Canvas compatibility\
 Add tracers to Fairy Soul ESP\
 Make Fairy Soul ESP not so damn ugly\
+(Maybe) Add cache system, so already claimed fairy souls will not appear\
 Harp Bot
 
 ## Resources
