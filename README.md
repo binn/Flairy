@@ -6,8 +6,10 @@ Illegal modifications for Hypixel Skyblock
 Fairy Soul ESP
 
 **TODO:**\
-Improve Renderer\
+Improve / Rewrite Renderer\
+Add Canvas compatibility\
 Add tracers to Fairy Soul ESP\
+Make Fairy Soul ESP not so damn ugly\
 Harp Bot
 
 ## Resources
