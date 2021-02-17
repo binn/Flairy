@@ -2,7 +2,6 @@ package me.puff.flairy;
 
 import com.google.common.eventbus.EventBus;
 import net.fabricmc.api.ModInitializer;
-
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

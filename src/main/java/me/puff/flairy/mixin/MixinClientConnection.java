@@ -1,20 +1,16 @@
 package me.puff.flairy.mixin;
 
+import io.netty.util.concurrent.Future;
+import io.netty.util.concurrent.GenericFutureListener;
 import me.puff.flairy.command.Command;
 import me.puff.flairy.command.CommandManager;
-import me.puff.flairy.utils.FlairyLogger;
-
+import net.minecraft.network.ClientConnection;
+import net.minecraft.network.Packet;
+import net.minecraft.network.packet.c2s.play.ChatMessageC2SPacket;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
-
-import io.netty.util.concurrent.Future;
-import io.netty.util.concurrent.GenericFutureListener;
-
-import net.minecraft.network.ClientConnection;
-import net.minecraft.network.Packet;
-import net.minecraft.network.packet.c2s.play.ChatMessageC2SPacket;
 
 @Mixin(ClientConnection.class)
 public class MixinClientConnection {

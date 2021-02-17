@@ -4,10 +4,11 @@ import me.puff.flairy.command.Command;
 import me.puff.flairy.module.Module;
 import me.puff.flairy.module.ModuleManager;
 import me.puff.flairy.utils.FlairyLogger;
-import me.puff.flairy.utils.FlairyQueue;
 
 import java.util.Arrays;
-import java.util.List;;
+import java.util.List;
+
+;
 
 public class CmdToggle extends Command {
 

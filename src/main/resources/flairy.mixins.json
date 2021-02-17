@@ -5,8 +5,7 @@
   "mixins": [],
   "client": [
     "MixinClientConnection",
-    "MixinClientPlayerEntity",
-    "MixinWorldRenderer"
+    "MixinLivingEntityRenderer"
   ],
   "server": [],
   "injectors": {

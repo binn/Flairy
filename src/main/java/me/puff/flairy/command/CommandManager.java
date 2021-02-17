@@ -5,7 +5,6 @@ import me.puff.flairy.utils.FlairyLogger;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicBoolean;
 
 public class CommandManager {
 
