@@ -1,13 +1,21 @@
 # Flairy
-Illegal modifications for Hypixel Skyblock
+Illegal modifications for Hypixel Skyblock\
+Fabric 1.16.5
 
 ## Features
 **Implemented:**\
 Fairy Soul ESP
 
 **TODO:**\
-Improve Renderer\
+Improve / Rewrite Renderer\
+Add settings system for modules\
+Add Canvas compatibility\
 Add tracers to Fairy Soul ESP\
+Make Fairy Soul ESP not so damn ugly\
+(Maybe) Add cache system, so already claimed fairy souls will not appear\
+Chronomatron (Experimentation Table)\
+Ultrasequencer (Experimentation Table)\
+Superpairs (Experimentation Table)\
 Harp Bot
 
 ## Resources
